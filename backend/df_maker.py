@@ -1,5 +1,4 @@
 import pandas
-import csv
 import os
 
 dir_path = 'D:/Desktop/Hackathon/DisInformation-Challenge-Data/'
