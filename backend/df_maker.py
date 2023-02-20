@@ -1,6 +1,5 @@
 import pandas
 import os
-import csv
 
 dir_path = 'D:/Desktop/Hackathon/DisInformation-Challenge-Data/'
 file_name_1 = 'Guardians_Russia_Ukraine.csv'
