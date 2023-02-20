@@ -3,13 +3,16 @@ import os
 
 dir_path = 'D:/Desktop/Hackathon/DisInformation-Challenge-Data/'
 file_name_1 = 'Guardians_Russia_Ukraine.csv'
-exclusion_list = ['Russia_invade.csv', 'Ukraine_nato.csv', 'StandWithUkraine.csv', 'Ukraine_border.csv', 'Ukraine_troops.csv',
-                  'Ukraine_war.csv']
 
 
 def return_df_from_csv(directory_path, file_name):
     return pandas.read_csv(filepath_or_buffer=directory_path + file_name, encoding="utf-8",
                            engine='python', memory_map=True, on_bad_lines='skip')
+
+
+def return_df_from_csv(directory_path, file_name, datatypes):
+    return pandas.read_csv(filepath_or_buffer=directory_path + file_name, encoding="utf-8",
+                           engine='python', memory_map=True, on_bad_lines='skip', dtype=datatypes)
 
 
 def return_df_list_from_directory(directory_path):
@@ -23,5 +26,6 @@ def return_df_list_from_directory(directory_path):
 
 # a = return_df_from_csv(directory_path=dir_path, file_name=file_name_1)
 # b = return_df_from_csv(directory_path=dir_path, file_name='StandWithUkraine.csv')
-c = return_df_list_from_directory(directory_path=dir_path)
+c = return_df_from_csv(directory_path=dir_path, file_name='Russian_border_Ukraine.csv')
+# d = return_df_list_from_directory(directory_path=dir_path)
 print('ok')
