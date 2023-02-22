@@ -2,12 +2,10 @@ from pydantic import BaseModel
 from typing import List
 
 
-class NewsModel(BaseModel):
-    text: str
-
 
 class ReturnNewsModel(BaseModel):
-    prediction: List[int] = []
+    predict_logistic: int
+    predict_decision_tree:int
 
 
 class ReturnTwitterStatsModel(BaseModel):
