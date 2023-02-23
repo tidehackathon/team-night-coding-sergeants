@@ -9,7 +9,7 @@ We are the "Nighht Coding Sergeants" team. It cosnists of 4 students from Milita
 
 Here is a brief diary describing what we did during event: 
 - MONDAY (20.02.2023):
-  - we introduced our team to the NATO Tide Hackathon, 
+  - we introduced our team to the NATO Tide Hackathon community, 
   - we downloaded provided datasets and we got acquainted with the problem,
   - we carried out a lot of analysis of the datasets provided,
   - we did a lot of painstaking research on how to deal with the dataset we had recived.
