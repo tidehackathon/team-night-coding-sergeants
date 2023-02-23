@@ -19,4 +19,6 @@ Here is brief diary describing what we did during event:
   - we started collecting available datasets from the Internet and teaching models on them.
 - WEDNESDAY (22.02.2023): 
 - THURSDAY (23.02.2023): 
+  - we presented our solutions and discused them with the challenge judges,
+  - we have bundled all the solutions developed so far into one system,
 - FRIDAY (23.02.2023): 
