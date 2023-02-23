@@ -10,7 +10,7 @@ Here is brief diary describing what we did during event:
   • we did a lot of painstaking research on how to deal with the dataset we had recived.
 - TUESDAY (21.02.2023): 
   • we continued our research on fake news detection methods, we found that there is a lot of different types of methods to perform this task: 
-  [alt text](https://raw.githubusercontent.com/tidehackathon/team-night-coding-sergeants/main/mainSiteContent/obraz_2023-02-23_145648370.png?token=GHSAT0AAAAAAB67QIYHMXUPXZN5SZRCNA7AY7XOHDQ)
+  ![alt text](https://raw.githubusercontent.com/tidehackathon/team-night-coding-sergeants/main/mainSiteContent/obraz_2023-02-23_145648370.png?token=GHSAT0AAAAAAB67QIYHMXUPXZN5SZRCNA7AY7XOHDQ)
 - WEDNESDAY (22.02.2023): 
 - THURSDAY (23.02.2023): 
 - FRIDAY (23.02.2023): 
