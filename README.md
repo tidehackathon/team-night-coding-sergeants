@@ -7,10 +7,15 @@ Here is brief diary describing what we did during event:
 - MONDAY (20.02.2023): 
   • we introduced our team to the NATO Tide Hackathon, 
   • we downloaded provided datasets and we got acquainted with the problem,
+  • we carried out a lot of analysis of the datasets provided:
+  ![image](https://user-images.githubusercontent.com/68441059/220931675-32c50a60-903c-4b9a-9cd2-53478837c5f2.png)
   • we did a lot of painstaking research on how to deal with the dataset we had recived.
 - TUESDAY (21.02.2023): 
   • we continued our research on fake news detection methods, we found that there is a lot of different types of methods to perform this task: 
   ![alt text](https://raw.githubusercontent.com/tidehackathon/team-night-coding-sergeants/main/mainSiteContent/obraz_2023-02-23_145648370.png?token=GHSAT0AAAAAAB67QIYHMXUPXZN5SZRCNA7AY7XOHDQ)
+  source: https://arxiv.org/ftp/arxiv/papers/2112/2112.11185.pdf
+  • we decided to create a solution consisting of frontend and backend,
+  • we started collecting available datasets from the Internet and teaching models on them,
 - WEDNESDAY (22.02.2023): 
 - THURSDAY (23.02.2023): 
 - FRIDAY (23.02.2023): 
