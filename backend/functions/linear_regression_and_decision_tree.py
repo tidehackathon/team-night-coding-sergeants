@@ -117,11 +117,11 @@ def predict_fact_linear_regression_and_decision_tree(fact):
     fact = ' '.join([word for word in fact.split() if word not in stop])
 
     # predict logistic regression model
-    model_logistic = pickle.load(open('./models/model_logistic_regression.sav', 'rb'))
-    predict_logistic = model_logistic.predict(fact)
+    model_logistic = pickle.load(open(os.path.abspath("./functions/models/model_logistic_regression.sav"), 'rb'))
+    predict_logistic = model_logistic.predict([fact])
 
     # predict decision tree model
-    model_decision_tree = pickle.load(open('./models/model_decision_tree.sav', 'rb'))
-    predict_decision_tree = model_decision_tree.fit(fact)
+    model_decision_tree = pickle.load(open(os.path.abspath("./functions/models/model_decision_tree.sav"), 'rb'))
+    predict_decision_tree = model_decision_tree.predict([fact])
 
     return predict_logistic, predict_decision_tree
