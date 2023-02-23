@@ -24,7 +24,7 @@ Here is a brief diary describing what we did during event:
   - we continued our research on fake news detection methods, we found that there is a lot of different types of methods to perform this task: 
   ![image](https://user-images.githubusercontent.com/68441059/220931876-0f5b36d0-7c26-476f-bf9a-f07bbd775415.png)
   source: https://arxiv.org/ftp/arxiv/papers/2112/2112.11185.pdf
-  - we decided to try to implement a way of verifying information on the basis of the knowledge base created from ground truth Guardians and New York Times Articles,
+  - we decided to try to implement a way of verifying information on the basis of the knowledge base created from ground truth Guardians and New York Times articles,
   - we decided to create a solution consisting of frontend and backend (API that will provide results from different approaches to the problem on the reliability of the information submitted for checking),
   - we started collecting available datasets from the Internet and teaching models on them.
 - WEDNESDAY (22.02.2023): 
@@ -34,3 +34,4 @@ Here is a brief diary describing what we did during event:
   - we presented our solutions and discused them with the challenge judges,
   - we have bundled all the solutions developed so far into one system,
 - FRIDAY (24.02.2023): 
+TBA
