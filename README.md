@@ -9,7 +9,7 @@ Here is brief diary describing what we did during event:
 - MONDAY (20.02.2023):
   - we introduced our team to the NATO Tide Hackathon, 
   - we downloaded provided datasets and we got acquainted with the problem,
-  - we carried out a lot of analysis of the datasets provided:
+  - we carried out a lot of analysis of the datasets provided,
   - we did a lot of painstaking research on how to deal with the dataset we had recived.
   
 - TUESDAY (21.02.2023): 
@@ -20,7 +20,9 @@ Here is brief diary describing what we did during event:
   - we decided to create a solution consisting of frontend and backend (API that will provide results from different approaches to the problem on the reliability of the information submitted for checking),
   - we started collecting available datasets from the Internet and teaching models on them.
 - WEDNESDAY (22.02.2023): 
+  - we continued work on our solutions, 
+  - we saw that extraction of knowledge from provided articles is a tought task, 
 - THURSDAY (23.02.2023): 
   - we presented our solutions and discused them with the challenge judges,
   - we have bundled all the solutions developed so far into one system,
-- FRIDAY (23.02.2023): 
+- FRIDAY (24.02.2023): 
