@@ -15,8 +15,8 @@ Here is brief diary describing what we did during event:
   ![image](https://user-images.githubusercontent.com/68441059/220931876-0f5b36d0-7c26-476f-bf9a-f07bbd775415.png)
   source: https://arxiv.org/ftp/arxiv/papers/2112/2112.11185.pdf
   
-  - we decided to create a solution consisting of frontend and backend,
-  - we started collecting available datasets from the Internet and teaching models on them,
+  - we decided to create a solution consisting of frontend and backend (API that will provide results from different approaches to the problem on the reliability of the information submitted for checking),
+  - we started collecting available datasets from the Internet and teaching models on them.
 - WEDNESDAY (22.02.2023): 
 - THURSDAY (23.02.2023): 
 - FRIDAY (23.02.2023): 
