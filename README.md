@@ -11,7 +11,8 @@ Here is brief diary describing what we did during event:
   • we did a lot of painstaking research on how to deal with the dataset we had recived.
 - TUESDAY (21.02.2023): 
   • we continued our research on fake news detection methods, we found thah there is a lot of different methods to perform this task: 
-  
+  ![alt text](https://freeimage.host/i/HMHhvN2)
+
 
 
 
