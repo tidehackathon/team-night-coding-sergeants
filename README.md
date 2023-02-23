@@ -5,7 +5,7 @@
 Hi ! 
 We are the "Nighht Coding Sergeants" team. It cosnists of 4 students from Military University of Tecnology in Warsaw (Wojskowa Akademia Techniczna), Poland: Dawid MAŚLANIK, Hubert SIKORSKI, Rafał WASILUK and Kamil WIŚNIEWSKI. We decided to take part in DISInformation Analyser Challenge during NATO Tide Hackathon 2023. We collectively believe that these days we are vulnerable to fake news and other forms of disinformation in both military and civilian affairs. The war in the neighboring country of Ukraine, which has been going on for almost a year, shows how great the role of information is and how much the enemy can gain by manipulating what we know and how the public reacts to specific events. We would like to contribute as much as we can to improve our ability to protect against such threats. The aforementioned goal and the fact that we would like to learn as much as possible during the event are the reasons why we signed up for this year's hackathon.
 
-<img width="1892" alt="NTC - diagramy" src="https://user-images.githubusercontent.com/68441059/220937767-ffcc15e1-0c50-4b9b-8603-0ea857463eb3.png">
+<img width="1896" alt="NTC - diagramy (1)" src="https://user-images.githubusercontent.com/68441059/220939690-11313b6b-91a5-4b28-a8b5-5357e570d0d0.png">
 
 Here is a brief diary describing what we did during event: 
 - MONDAY (20.02.2023):
