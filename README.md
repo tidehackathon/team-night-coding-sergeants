@@ -1,4 +1,4 @@
-# team-night-coding-sergeants
+# Team Night Coding Sergeants
 Night Coding Sergeants
 
 Hi ! 
