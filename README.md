@@ -14,6 +14,7 @@ Here is brief diary describing what we did during event:
   • we continued our research on fake news detection methods, we found that there is a lot of different types of methods to perform this task: 
   ![image](https://user-images.githubusercontent.com/68441059/220931876-0f5b36d0-7c26-476f-bf9a-f07bbd775415.png)
   source: https://arxiv.org/ftp/arxiv/papers/2112/2112.11185.pdf
+  
   • we decided to create a solution consisting of frontend and backend,
   • we started collecting available datasets from the Internet and teaching models on them,
 - WEDNESDAY (22.02.2023): 
