@@ -10,6 +10,7 @@ Here is a diagram depicting our solution:
 
 The following datasets, among others, were used during the manufacturing proces:
 ![image](https://user-images.githubusercontent.com/93080250/220948447-e991e4c0-a34e-413e-93b9-910a736b6ec5.png)
+ source: https://arxiv.org/ftp/arxiv/papers/2112/2112.11185.pdf
 
 Here is a brief diary describing what we did during event: 
 - MONDAY (20.02.2023):
